@@ -38,7 +38,7 @@ border:0px;
 
 @media (max-width: 480px) {
     #sizing {
-        height:115px;
+        height:120px;
     }
     #text p {
         float: center;
