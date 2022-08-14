@@ -38,10 +38,13 @@ border:0px;
 
 @media (max-width: 480px) {
     #sizing {
-        height:123px;
+        height:128px;
     }
     #text p {
         float: center;
+    }
+    #foot-icon i{
+        padding-left:0px;
     }
 
 }
